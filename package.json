@@ -4,7 +4,7 @@
   "description": "Simple Mongo DB Conect example",
   "main": "index.js",
   "scripts": {
-    "send": "node mongoclient.js",
+    "start": "node mongoclient.js",
   },
   "keywords": [
       "mongo-client"
