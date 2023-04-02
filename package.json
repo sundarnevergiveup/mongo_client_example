@@ -1,0 +1,17 @@
+{
+  "name": "mongo-client-example",
+  "version": "1.0.0",
+  "description": "Simple Mongo DB Conect example",
+  "main": "index.js",
+  "scripts": {
+    "send": "node mongoclient.js",
+  },
+  "keywords": [
+      "mongo-client"
+  ],
+  "author": "Sundar",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^5.1.0",
+  }
+}
